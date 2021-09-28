@@ -1,0 +1,2 @@
+(this.webpackJsonpwebandad=this.webpackJsonpwebandad||[]).push([[5],{83:function(n,e,t){"use strict";t.r(e);t(0);var a=t(2);e.default=function(){return Object(a.jsx)("div",{children:"Column"})}}}]);
+//# sourceMappingURL=5.f9f6429b.chunk.js.map

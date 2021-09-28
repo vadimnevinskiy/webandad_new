@@ -1,0 +1,24 @@
+.columns{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+}
+.columnHeader{
+    background: #F0F2F8;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 20px;
+}
+.columnDescription{
+    text-align: center;
+    color: #E8EAF2;
+    margin: 0px auto 20px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.arrowIcon{
+    font-size: 40px;
+}
+.columnContent{
+    border: 1px dotted #F0F2F8;
+}

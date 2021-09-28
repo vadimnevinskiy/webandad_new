@@ -1,0 +1,21 @@
+{
+  "question": {
+    "questionNumber": 1.2,
+    "title": "Составь предложения. Вспомни, почему некоторые слова употребляются с определенным артиклем?",
+    "words": [
+      {"id": 0, "value": "C'est"},
+      {"id": 1, "value": "de"},
+      {"id": 2, "value": "la"},
+      {"id": 3, "value": "mon ami"},
+      {"id": 4, "value": "soeur"}
+    ]
+  },
+  "answer": [
+    {"id": 0, "value": "C'est"},
+    {"id": 1, "value": "la"},
+    {"id": 2, "value": "soeur"},
+    {"id": 3, "value": "de"},
+    {"id": 4, "value": "mon ami"}
+  ]
+}
+

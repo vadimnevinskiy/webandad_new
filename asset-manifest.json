@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/webandad/static/css/main.75df4973.chunk.css",
+    "main.js": "/webandad/static/js/main.3b153166.chunk.js",
+    "main.js.map": "/webandad/static/js/main.3b153166.chunk.js.map",
+    "runtime-main.js": "/webandad/static/js/runtime-main.16923a6c.js",
+    "runtime-main.js.map": "/webandad/static/js/runtime-main.16923a6c.js.map",
+    "static/css/2.b0300f7a.chunk.css": "/webandad/static/css/2.b0300f7a.chunk.css",
+    "static/js/2.42a21b0d.chunk.js": "/webandad/static/js/2.42a21b0d.chunk.js",
+    "static/js/2.42a21b0d.chunk.js.map": "/webandad/static/js/2.42a21b0d.chunk.js.map",
+    "static/js/3.1da5a0e6.chunk.js": "/webandad/static/js/3.1da5a0e6.chunk.js",
+    "static/js/3.1da5a0e6.chunk.js.map": "/webandad/static/js/3.1da5a0e6.chunk.js.map",
+    "static/css/4.0ec4a0f1.chunk.css": "/webandad/static/css/4.0ec4a0f1.chunk.css",
+    "static/js/4.d2709c65.chunk.js": "/webandad/static/js/4.d2709c65.chunk.js",
+    "static/js/4.d2709c65.chunk.js.map": "/webandad/static/js/4.d2709c65.chunk.js.map",
+    "static/js/5.f9f6429b.chunk.js": "/webandad/static/js/5.f9f6429b.chunk.js",
+    "static/js/5.f9f6429b.chunk.js.map": "/webandad/static/js/5.f9f6429b.chunk.js.map",
+    "index.html": "/webandad/index.html",
+    "static/css/2.b0300f7a.chunk.css.map": "/webandad/static/css/2.b0300f7a.chunk.css.map",
+    "static/css/4.0ec4a0f1.chunk.css.map": "/webandad/static/css/4.0ec4a0f1.chunk.css.map",
+    "static/css/main.75df4973.chunk.css.map": "/webandad/static/css/main.75df4973.chunk.css.map",
+    "static/js/2.42a21b0d.chunk.js.LICENSE.txt": "/webandad/static/js/2.42a21b0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16923a6c.js",
+    "static/css/2.b0300f7a.chunk.css",
+    "static/js/2.42a21b0d.chunk.js",
+    "static/css/main.75df4973.chunk.css",
+    "static/js/main.3b153166.chunk.js"
+  ]
+}

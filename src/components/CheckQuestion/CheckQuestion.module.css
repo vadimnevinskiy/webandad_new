@@ -1,0 +1,54 @@
+.checkContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    vertical-align: center;
+    align-items: center;
+    align-content: space-around;
+    padding: 50px;
+}
+.checkContainer > div {
+    display: flex;
+    margin: 0px 0px 0px 30px;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
+.moveBtn{
+    cursor: pointer;
+    color: #7B7B8C;
+    font-size: 25px;
+    font-weight: 700;
+}
+.arrowIcon {
+    font-size: 43px;
+}
+.moreIcon{
+    font-size: 43px;
+    color: #E6E6EB;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: inline-block;
+    margin-top: 10px;
+}
+.moreIcon:hover{
+    color: #7B7B8C;
+}
+.checkBtn{
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 10px 20px 12px;
+    cursor: pointer;
+    color: #E6E6EB;
+    font-size: 25px;
+    font-weight: 700;
+}
+.checkBtn:hover{
+    color: #7B7B8C;
+    border: 1px solid #666666;
+}
+
+.checkBlock{
+    position: relative;
+}

@@ -1,0 +1,34 @@
+.checkPopup{
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #cccccc;
+    background: #ffffff;
+    padding: 20px;
+    position: absolute;
+    left: -190px;
+    top: 60px;
+    min-width: 400px;
+    z-index: 2;
+    display: none;
+}
+.showPopup{
+    display: block;
+}
+.popupTitle{
+    color: #7B7B8C;
+    font-size: 25px;
+    font-weight: 700;
+}
+.correctAnswer{
+    font-size: 20px;
+    font-weight: 700;
+    list-style-type: circle;
+    color: #71C476;
+    margin: 0px 0px 0px 30px;
+}
+.correctAnswer > li{
+    list-style-type: disc!important;
+    padding: 10px 0px;
+}
+.correctAnswer > li > div{
+    color: #103349;
+}

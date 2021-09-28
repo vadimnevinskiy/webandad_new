@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Column/Column.tsx"],"names":["Column"],"mappings":"qGAAA,uBAUeA,UARA,WACX,OACI","file":"static/js/5.f9f6429b.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Column = () => {\r\n    return (\r\n        <div>\r\n            Column\r\n        </div>\r\n    );\r\n};\r\n\r\nexport default Column;\r\n"],"sourceRoot":""}

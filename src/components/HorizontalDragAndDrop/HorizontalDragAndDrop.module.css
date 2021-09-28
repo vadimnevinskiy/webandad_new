@@ -1,0 +1,47 @@
+.lightBorder{
+    border: 1px dotted #cccccc;
+    padding: 30px 30px 30px 30px;
+    transition: all 0.2s;
+    position: relative;
+}
+.correctAnswer{
+    background: #c9f5cb;
+}
+.incorrectAnswer{
+    background: palevioletred;
+}
+
+.dragBlock{
+    display: flex;
+    flex-direction: row;
+
+}
+.dragItem{
+    display: flex;
+    vertical-align: center;
+    justify-content: center;
+    align-content: center;
+    background: #fff;
+    border: 2px solid #71C476;
+    border-radius: 70px;
+    min-width: 150px;
+    padding: 5px 0px 8px 0px;
+    margin-right: 10px;
+    font-size: 30px;
+    /*cursor: grab;*/
+
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
+
+.dragItem span{
+    text-transform: lowercase;
+    transition: all 0.3s;
+}
+.dragItem:first-child span:first-letter{
+    text-transform: uppercase;
+}
+
+
